@@ -46,7 +46,7 @@ class Chatroom {
     }
     
 }
-const chatroom = new Chatroom("gaming","ken");
+
 
 
 
